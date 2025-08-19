@@ -1,14 +1,15 @@
 {
   "name": "stardust-vue-admin",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc -b && vite build",
     "preview": "vite preview",
     "prepare": "husky install",
-    "release": "standard-version"
+    "release": "standard-version",
+    "test": "echo \"No tests yet\" && exit 0"
   },
   "dependencies": {
     "vue": "^3.5.18"
