@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](https://github.com/yxb123456cy/stardust-vue-fronted/compare/v0.0.4...v0.0.5) (2025-08-19)
+
+
+### Features
+
+* 引入ArcoDesign-Vue组件库 ([785568b](https://github.com/yxb123456cy/stardust-vue-fronted/commit/785568bcc74383411bb4dfeccb09d995fdb3d258))
+
 ### [0.0.4](https://github.com/yxb123456cy/stardust-vue-fronted/compare/v0.0.3...v0.0.4) (2025-08-19)
 
 ### [0.0.3](https://github.com/yxb123456cy/stardust-vue-fronted/compare/v0.0.2...v0.0.3) (2025-08-19)
